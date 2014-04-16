@@ -4,6 +4,7 @@
  */
 package cz.cvut.fit.krizeji1.mcode;
 
+import cz.cvut.fit.krizeji1.multicolour.attribute.GraphColorizer;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
@@ -17,7 +18,6 @@ import java.util.Set;
 import java.util.TreeMap;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import multicolour.attribute.GraphColorizer;
 import org.gephi.clustering.api.Cluster;
 import org.gephi.clustering.spi.Clusterer;
 import org.gephi.data.attributes.api.AttributeController;
