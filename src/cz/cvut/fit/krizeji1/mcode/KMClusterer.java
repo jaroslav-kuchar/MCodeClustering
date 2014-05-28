@@ -4,10 +4,9 @@
  */
 package cz.cvut.fit.krizeji1.mcode;
 
-import cz.cvut.fit.krizeji1.multicolour.attribute.GraphColorizer;
+import cz.cvut.fit.krizeji1.mcode.multicolour.GraphColorizer;
 import java.util.ArrayList;
 import java.util.Collection;
-import java.util.Collections;
 import java.util.Comparator;
 import java.util.HashMap;
 import java.util.HashSet;
